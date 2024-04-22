@@ -1,4 +1,4 @@
-cccccc,Gender,EthnicGroup,ParentEduc,LunchType,Test_Prep,ParentMaritalStatus,Practice_Sport,IsFirstChild,Num_Siblings,Transport_status,Math_Score,Reading_Score,Writing_Score
+id,Gender,EthnicGroup,ParentEduc,LunchType,Test_Prep,ParentMaritalStatus,Practice_Sport,IsFirstChild,Num_Siblings,Transport_status,Math_Score,Reading_Score,Writing_Score
 0,female,group B,bachelor's degree,standard,none,married,regularly,yes,3,school_bus,71,71,74
 1,female,group C,some college,standard,completed,married,sometimes,yes,0,school_bus,69,90,88
 2,female,group B,master's degree,standard,none,single,sometimes,yes,4,school_bus,87,93,91
